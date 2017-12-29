@@ -1,2 +1,2 @@
 # JN-Sun.github.io
-root repository
+"bootst-lend" was builded with through PUG, bootstrap-SASS, JS, GULP
